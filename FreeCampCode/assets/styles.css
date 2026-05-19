@@ -1,0 +1,9 @@
+#title{
+    font-size: 24px;
+    font-weight: bold;
+    color: red;
+    margin-bottom: 20px;
+}
+a:visited {
+  color: purple;
+}
